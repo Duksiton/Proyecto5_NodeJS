@@ -1,76 +1,35 @@
-# UIkit E-commerce Template
 
-Responsive e-commerce template containing catalog, filters, product page, shopping cart and other elements of the online store. Built with [UIkit](https://getuikit.com).
+# AppStore juegos | Elenemigos
 
-Demo: https://chekromul.github.io/uikit-ecommerce-template
-
-Also you can see `Sass` port of this theme: [vkovic/uikit-computer-store-template](https://github.com/vkovic/uikit-computer-store-template) 
-
-[![UIkit E-commerce Template](https://raw.githubusercontent.com/chekromul/uikit-ecommerce-template/gh-pages/images/preview.png "UIkit E-commerce Template")](https://raw.githubusercontent.com/chekromul/uikit-ecommerce-template/gh-pages/images/preview.png "UIkit E-commerce Template")
-
-## Overview
-
-### Technologies
-
-The project leverages:
-
-- [UIkit](https://getuikit.com)
-- [Pug](https://pugjs.org)
-- [Less](http://lesscss.org)
-- [Gulp](https://gulpjs.com)
+Proyecto 5 NodeJS
 
 
-### Browser Support
-| <img src="https://user-images.githubusercontent.com/1215767/34348387-a2e64588-ea4d-11e7-8267-a43365103afe.png" alt="Chrome" width="16px" height="16px" /> Chrome | <img src="https://user-images.githubusercontent.com/1215767/34348590-250b3ca2-ea4f-11e7-9efb-da953359321f.png" alt="IE" width="16px" height="16px" /> IE | <img src="https://user-images.githubusercontent.com/1215767/34348380-93e77ae8-ea4d-11e7-8696-9a989ddbbbf5.png" alt="Edge" width="16px" height="16px" /> Edge | <img src="https://user-images.githubusercontent.com/1215767/34348394-a981f892-ea4d-11e7-9156-d128d58386b9.png" alt="Safari" width="16px" height="16px" /> Safari | <img src="https://user-images.githubusercontent.com/1215767/34348383-9e7ed492-ea4d-11e7-910c-03b39d52f496.png" alt="Firefox" width="16px" height="16px" /> Firefox |
-| :---------: | :---------: | :---------: | :---------: | :---------: |
-| Yes | 11+ | Yes | Yes | Yes |
+## Screenshots del proyecto
 
-## Quick start
+![App Screenshot](https://cdn.discordapp.com/attachments/752529260501139556/1265165336521609310/image.png?ex=66a08489&is=669f3309&hm=a155f140e2c2653b9c7b902c27c0a1093d48575299e8745fe63b9dee22156682&)
 
-### What's included
+![App Screenshot](https://cdn.discordapp.com/attachments/752529260501139556/1265165396600688732/image.png?ex=66a08498&is=669f3318&hm=1cb2b197d80c9b2dea9cb03ea15bdfe5b07071f2053a8b91234b55dd6336252b&)
 
-```
-uikit-ecommerce-store/
-├── src/
-|   ├── scripts/
-│   |   ├── script.js
-|   ├── styles/
-│   |   ├── components/
-|   |   ├── style.less
-|   ├── templates/
-│   |   ├── components/
-|   |   ├── data/
-|   |   ├── layouts/
-|   |   ├── mixins/
-|   |   ├── pages/
-|   |   |    ├── index.pug
-|   |   ├── partials/
-|   ├── images/
+![App Screenshot](https://cdn.discordapp.com/attachments/752529260501139556/1265165454792720504/image.png?ex=66a084a6&is=669f3326&hm=3dbaba9410b45a28cf3993a5431304533a7bd515c703888d1d57439428af116a&)
 
-```
 
-### Build
+### Uso
 
-To clone and run this project, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](https://npmjs.com)) installed on your computer. From your command line:
+Para clonar este repositorio necesitamos [Git](https://git-scm.com) y [Node.js](https://nodejs.org/en/download/) (que viene con [npm](https://npmjs.com)) una vez instalado, corremos los siguientes comandos desde la terminal:
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/chekromul/uikit-ecommerce-template.git
+# Clonamos este repositorio
+$ git clone https://github.com/Duksiton/Proyecto5_NodeJS.git
 
-# Go into the repository
+# Entramos en el repositorio
 $ cd uikit-ecommerce-template
 
-# Install dependencies
+# Instalamos las dependencias
 $ npm install
 
-# Start
-$ gulp
+# Empezamos
+$ npm start
 ```
+## Autor del proyecto
 
-## Copyright and Credits
-
-[Shopping Categories Colection](https://thenounproject.com/jarosigrist/collection/shopping-categories) icons by Jaro Sigrist from Noun Project. Licensed under Creative Commons Attribution 3.0.
-
-## License
-
-This software is licensed under the MIT License © [Roman Chekurov](https://github.com/chekromul)
+- [@Duksiton](https://github.com/Duksiton)
