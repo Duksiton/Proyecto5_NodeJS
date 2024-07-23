@@ -33,3 +33,11 @@ $ npm start
 ## Autor del proyecto
 
 - [@Duksiton](https://github.com/Duksiton)
+
+## Copyright and Credits
+
+[Shopping Categories Colection](https://thenounproject.com/jarosigrist/collection/shopping-categories) icons by Jaro Sigrist from Noun Project. Licensed under Creative Commons Attribution 3.0.
+
+## License
+
+This software is licensed under the MIT License © [Roman Chekurov](https://github.com/chekromul)
