@@ -13,23 +13,6 @@ Proyecto 5 NodeJS
 ![App Screenshot](https://cdn.discordapp.com/attachments/752529260501139556/1265165454792720504/image.png?ex=66a084a6&is=669f3326&hm=3dbaba9410b45a28cf3993a5431304533a7bd515c703888d1d57439428af116a&)
 
 
-### Uso
-
-Para clonar este repositorio necesitamos [Git](https://git-scm.com) y [Node.js](https://nodejs.org/en/download/) (que viene con [npm](https://npmjs.com)) una vez instalado, corremos los siguientes comandos desde la terminal:
-
-```bash
-# Clonamos este repositorio
-$ git clone https://github.com/Duksiton/Proyecto5_NodeJS.git
-
-# Entramos en el repositorio
-$ cd uikit-ecommerce-template
-
-# Instalamos las dependencias
-$ npm install
-
-# Empezamos
-$ npm start
-```
 ## Autor del proyecto
 
 - [@Duksiton](https://github.com/Duksiton)
